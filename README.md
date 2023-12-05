@@ -17,5 +17,6 @@
 - The purpose of following this tutorial was to strengthen my Pandas and Python skills, for future machine learning applications, by applyting them into an area which I have nascent knowledge but a keen interest in, which is algorithmic trading
 - The content of this repository involves producing an investment portfolio based on 50 stocks with the highest high quality [price momentum](https://www.investopedia.com/terms/m/momentum.asp)
 - The strategy to determine high-quality momentum includes selecting stocks from the highest percentiles of 1-month, 3-month, 6-month, and 1-year price returns
+- The datasets used in this implementation are not included in this repository
 
 View the actual.py file for the code implementation of the strategy
